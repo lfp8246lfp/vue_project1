@@ -1,0 +1,20 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.el-card {
+    margin-top: 15px;
+    box-shadow: 0 0 10px #f0f !important;
+}
+
+.el-cascader-menu {
+    height: 204px;
+}
+
+.ql-container {
+    height: 300px!important;
+}
