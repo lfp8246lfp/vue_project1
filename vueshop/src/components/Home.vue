@@ -2,8 +2,8 @@
 <el-container class="container">
   <el-header class="header">
     <div class="logo">
-      <img src="../assets/heima.png" alt="">
-      <h1>替天行道</h1>
+      <img src="../assets/logo.png" alt="">
+      <h1>电商后台管理系统</h1>
     </div>
     <el-button type="info" @click="logout">退出登录</el-button>
   </el-header>
